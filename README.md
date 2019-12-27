@@ -1,7 +1,6 @@
 # Mechanum Wheel Controller via toio™Visual Programming
-Version 1.0.0
-<img src="https://raw.githubusercontent.com/tetunori/MechanumWheelControlVisProg/assets/screen1.png" width="640px">
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr"><a href="https://twitter.com/hashtag/toio?src=hash&amp;ref_src=twsrc%5Etfw">#toio</a> のVisual Programmingでメカナムホイールを完全に理解した。<br>ついにtoioのキューブは全方位移動を手に入れましたww<br><br>先日の機構モジュールの応用編となりますが、詳細は長くなるので、以下のQiita記事にて。<a href="https://t.co/3YrRGB4cYp">https://t.co/3YrRGB4cYp</a> <a href="https://t.co/nSYxmhL0Ua">pic.twitter.com/nSYxmhL0Ua</a></p>&mdash; Tetsunori NAKAYAMA | 中山 哲法 (@tetunori_lego) <a href="https://twitter.com/tetunori_lego/status/1210191833608769536?ref_src=twsrc%5Etfw">December 26, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+Version 1.0.0  
+<img src="https://raw.githubusercontent.com/tetunori/MechanumWheelControlVisProg/assets/screen1.png" width="640px">  
 YouTube -> https://youtu.be/c4uEohRcmfE
 
 # Description
